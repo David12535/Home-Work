@@ -1,5 +1,5 @@
 print('mogesalmebit batono Nika Keshelava')
-x = input ("Chven Gvaqvs Shemotavazeba Tqventvis")
+x = input ("Chven Shemotavazeba gvaqvs")
 legto = "mogesalmebat kompania legto, aq shegizliat sheizinot onlain dacvis programebi da aseve daiqiravot programistebi,"
 legto1 = "gvyavs sxvadasxva tipis programistebi, magalitad:"
 legto2 = "mini,medium,high,super high,ultra da premium"

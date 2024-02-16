@@ -1,0 +1,12 @@
+name= ("David")
+surname = ("berkacashvili")
+height = ("1.80")
+age = ("17")
+#the best leader Data Tezelava
+#the best academy is Goa
+#:) :) :) 
+print (name + " " + surname)
+print (f"ჩემი სომაღ ლ ეა{height}")
+print(f"ჩემი ასაკია{age}")
+print()
+

@@ -1,4 +1,4 @@
-name= ("David")
+name = ("david")
 surname = ("berkacashvili")
 height = ("1.80")
 age = ("17")

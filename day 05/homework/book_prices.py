@@ -36,7 +36,7 @@ price_after_discount02 = price_carlson  / discount02
 print(price_after_discount02)
 price_after_discount03 = price_a_tigger_skinner / discount03 
 print(price_after_discount03)
-price_after_discount04 = price_me_grandmother_and_hilarion - price_a_tigger_skinner / discount03 
+price_after_discount04 = price_me_grandmother_and_hilarion / discount03 
 print(price_after_discount04)
 price_after_discount05 = price_spiral / discount05 
 print(price_after_discount05)
@@ -58,6 +58,3 @@ print(price_after_discount3)
 price_after_discount4 = price_me_grandmother_and_hilarion / discount09
 print(price_after_discount4)
 price_after_discount5 = price_the_heart_is_a_lonely_hunter / discount10
-
-
-

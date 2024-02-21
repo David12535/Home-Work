@@ -4,24 +4,24 @@ amount = 200
 status = "overdue"
 
 #Displaying status
+
 print(status)
-
-#print("Game Over") 
-
+ 
+print ("payment done")
 credit = 814
 Credit = 428
 CREDIT = 171
 
-#snakecase hello world
+#snakecase hello world!!!!!!
 
 salary = 728
-new_salary = salary + 200
-print(new_salary)
+salary += 200
+print(salary)
 
 salary = 512
 pay_raise = 81
-new_salary = salary + pay_raise
-print(new_salary)
+salary += pay_raise
+print(salary)
 
 a = 20
 a = 40

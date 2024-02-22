@@ -13,6 +13,7 @@ a = "Learn and develop"
 #The upper() method returns a string in uppercase
 print(a.upper())
 
-
-
+#Print the second item of the list:
+thislist = ["low", "medium", "high"]
+print(thislist[1])
 

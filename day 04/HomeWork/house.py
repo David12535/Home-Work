@@ -189,13 +189,4 @@ end_fill()
 
 
 
-
-
-
-
-
-
-
-
-
 exitonclick()

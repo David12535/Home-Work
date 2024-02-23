@@ -17,5 +17,5 @@ print(str(3.4) + "1")
 # type() ეს ფუნქცია გვეხმარება იმაში რომ გავიგოთ კონკრეტული მნიშვნელობა რა ტიპის არის.
 print(type(3.1))
 print(type(5))
-print(type("luka"))
+print(type("David"))
 print(".")

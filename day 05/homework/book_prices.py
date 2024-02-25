@@ -30,15 +30,15 @@ discount04 = 10
 discount05 = 10
 
 #adding discounts01 -10%
-price_after_discount01 = price_The_Hound_of_the_Baskervilles / discount01 
+price_after_discount01 = price_The_Hound_of_the_Baskervilles * discount01 / 100
 print(price_after_discount01)
-price_after_discount02 = price_carlson  / discount02 
+price_after_discount02 = price_carlson  * discount02  / 100
 print(price_after_discount02)
-price_after_discount03 = price_a_tigger_skinner / discount03 
+price_after_discount03 = price_a_tigger_skinner * discount03 / 100
 print(price_after_discount03)
-price_after_discount04 = price_me_grandmother_and_hilarion / discount03 
+price_after_discount04 = price_me_grandmother_and_hilarion * discount03 / 100 
 print(price_after_discount04)
-price_after_discount05 = price_spiral / discount05 
+price_after_discount05 = price_spiral * discount05 / 100
 print(price_after_discount05)
 
 #discounte of 20%
@@ -49,12 +49,12 @@ discount09 = 20
 discount10 = 20
 
 #adding discount02 -20%
-price_after_discount1 = price_READER_I_MURDERED_HIM / discount06 
+price_after_discount1 = price_READER_I_MURDERED_HIM * discount06 / 100 
 print(price_after_discount1)
-price_after_discount2 = price_one_of_us_is_lying  / discount07 
+price_after_discount2 = price_one_of_us_is_lying  * discount07 / 100
 print(price_after_discount2)
-price_after_discount3 = price_thirteen_dorways_wolves_behind_them_all  / discount08 
+price_after_discount3 = price_thirteen_dorways_wolves_behind_them_all  * discount08 / 100 
 print(price_after_discount3)
-price_after_discount4 = price_me_grandmother_and_hilarion / discount09
+price_after_discount4 = price_me_grandmother_and_hilarion * discount09 / 100
 print(price_after_discount4)
-price_after_discount5 = price_the_heart_is_a_lonely_hunter / discount10
+price_after_discount5 = price_the_heart_is_a_lonely_hunter * discount10 / 100

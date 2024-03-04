@@ -16,5 +16,5 @@ print (legto7)
 print (legto6 [0:36])
 
 
-
+print(5/2)
 

@@ -14,3 +14,9 @@ while x <= 10:
         odd_sum += x
     x += 1
 print(f"Sum Of Numbers From Zero To ten is {odd_sum}")
+
+for num in range(101):
+    print(num)
+    
+
+

@@ -13,7 +13,7 @@ for i in range (-10, 10, 3):
     print(i)  
 
 #მეოთხე დავალება
-num1=int(input("enter your firsat number: "))
+num1=int(input("enter your first number: "))
 num2=int(input("enter your second number: "))
 
 if num1 > num2:

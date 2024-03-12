@@ -112,7 +112,7 @@
 #     if(i%2==1):
 #         print(i)
 
-#14
+# 14
 # num = int(input("enter your number: "))
 # while num<num + 20:
 #     print(num)
@@ -121,7 +121,7 @@
 #         break
     
 
-#15
+# 15
 # name="David"
 # name1=input("Enter Name: ")
 # while name1 != name:

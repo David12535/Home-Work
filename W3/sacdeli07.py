@@ -22,7 +22,13 @@ import datetime
 x = datetime.datetime.now()
 print(x)
 
-#
+#Find the factorial of a number:
+#Import math Library
+import math
+#Return factorial of a number
+print(math.factorial(2))
+print(math.factorial(4))
+print(math.factorial(18))
 
 
 

@@ -9,5 +9,7 @@ print (g)
 
 
 
-
+num5="12"
+num6="14"
+print(num5 + " " + num6)
 

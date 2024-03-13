@@ -18,3 +18,5 @@ print (legto6 [0:36])
 
 print(5/2)
 
+
+

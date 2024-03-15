@@ -39,6 +39,12 @@
 # print(multiply(5,5))
 # print(divide(5,5))
 
+# num = int(input("enter number from 1 to 10: "))
+# for i in range(1, 51):
+#     if i % num==0:
+#         print(i)
+
+print(4**5)
 
 
 

@@ -119,5 +119,3 @@ if num1 >= 0:
 
 print(factorial_result)
 
-
-
